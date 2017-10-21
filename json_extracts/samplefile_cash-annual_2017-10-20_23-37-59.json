@@ -1,0 +1,350 @@
+{
+    "F-cash-annual": [
+        {
+            "12/31/2016": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 3544000, 
+                        "changesInOtherOperatingActivities": 1000, 
+                        "changesInAccountsReceivables": 2855000, 
+                        "depreciation": 8717000, 
+                        "changesInInventories": 815000, 
+                        "changesInLiabilities": 6595000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 55945000, 
+                        "capitalExpenditures": 6992000, 
+                        "investments": 37585000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 11028000, 
+                        "otherCashFlowsFromFinancingActivities": 49000, 
+                        "salePurchaseOfStock": 145000, 
+                        "dividendsPaid": 3376000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 4596000, 
+                        "changeInCashAndCashEquivalents": 1633000, 
+                        "totalCashFlowsFromInvestingActivities": 25352000, 
+                        "totalCashFlowsFromFinancingActivities": 7458000, 
+                        "totalCashFlowFromOperatingActivities": 19792000
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2015": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 1506000, 
+                        "changesInOtherOperatingActivities": 701000, 
+                        "changesInAccountsReceivables": 3563000, 
+                        "depreciation": 7966000, 
+                        "changesInInventories": 1155000, 
+                        "changesInLiabilities": 7758000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 56717000, 
+                        "capitalExpenditures": 7196000, 
+                        "investments": 37751000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 17148000, 
+                        "otherCashFlowsFromFinancingActivities": 317000, 
+                        "salePurchaseOfStock": 129000, 
+                        "dividendsPaid": 2380000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 7373000, 
+                        "changeInCashAndCashEquivalents": 3515000, 
+                        "totalCashFlowsFromInvestingActivities": 26162000, 
+                        "totalCashFlowsFromFinancingActivities": 14322000, 
+                        "totalCashFlowFromOperatingActivities": 16170000
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2014": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 4424000, 
+                        "changesInOtherOperatingActivities": 467000, 
+                        "changesInAccountsReceivables": 2896000, 
+                        "depreciation": 7423000, 
+                        "changesInInventories": 936000, 
+                        "changesInLiabilities": 5729000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 52009000, 
+                        "capitalExpenditures": 7463000, 
+                        "investments": 38348000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 7314000, 
+                        "otherCashFlowsFromFinancingActivities": 25000, 
+                        "salePurchaseOfStock": 1964000, 
+                        "dividendsPaid": 1952000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 1231000, 
+                        "changeInCashAndCashEquivalents": 3711000, 
+                        "totalCashFlowsFromInvestingActivities": 21124000, 
+                        "totalCashFlowsFromFinancingActivities": 3423000, 
+                        "totalCashFlowFromOperatingActivities": 14507000
+                    }
+                }
+            ]
+        }
+    ], 
+    "WFC-cash-annual": [
+        {
+            "12/31/2016": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 78341000, 
+                        "changesInOtherOperatingActivities": 10350000, 
+                        "changesInAccountsReceivables": "-", 
+                        "depreciation": 4970000, 
+                        "changesInInventories": "-", 
+                        "changesInLiabilities": 705000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 23781000, 
+                        "capitalExpenditures": "-", 
+                        "investments": 98338000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 54451000, 
+                        "otherCashFlowsFromFinancingActivities": 82943000, 
+                        "salePurchaseOfStock": 4788000, 
+                        "dividendsPaid": 9038000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 21938000, 
+                        "changeInCashAndCashEquivalents": 1618000, 
+                        "totalCashFlowsFromInvestingActivities": 122119000, 
+                        "totalCashFlowsFromFinancingActivities": 123568000, 
+                        "totalCashFlowFromOperatingActivities": 169000
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2015": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 47580000, 
+                        "changesInOtherOperatingActivities": 4784000, 
+                        "changesInAccountsReceivables": "-", 
+                        "depreciation": 3288000, 
+                        "changesInInventories": "-", 
+                        "changesInLiabilities": 2182000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 5577000, 
+                        "capitalExpenditures": "-", 
+                        "investments": 112812000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 49707000, 
+                        "otherCashFlowsFromFinancingActivities": 55353000, 
+                        "salePurchaseOfStock": 4231000, 
+                        "dividendsPaid": 8826000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 22894000, 
+                        "changeInCashAndCashEquivalents": 460000, 
+                        "totalCashFlowsFromInvestingActivities": 107235000, 
+                        "totalCashFlowsFromFinancingActivities": 92003000, 
+                        "totalCashFlowFromOperatingActivities": 14772000
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2014": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 26748000, 
+                        "changesInOtherOperatingActivities": 2866000, 
+                        "changesInAccountsReceivables": "-", 
+                        "depreciation": 2515000, 
+                        "changesInInventories": "-", 
+                        "changesInLiabilities": 6778000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 6632000, 
+                        "capitalExpenditures": "-", 
+                        "investments": 135012000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 34360000, 
+                        "otherCashFlowsFromFinancingActivities": 89637000, 
+                        "salePurchaseOfStock": 5351000, 
+                        "dividendsPaid": 8143000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 23057000, 
+                        "changeInCashAndCashEquivalents": 348000, 
+                        "totalCashFlowsFromInvestingActivities": 128380000, 
+                        "totalCashFlowsFromFinancingActivities": 110503000, 
+                        "totalCashFlowFromOperatingActivities": 17529000
+                    }
+                }
+            ]
+        }
+    ], 
+    "AAPL-cash-annual": [
+        {
+            "9/24/2016": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 9148000, 
+                        "changesInOtherOperatingActivities": 1090000, 
+                        "changesInAccountsReceivables": 1044000, 
+                        "depreciation": 10505000, 
+                        "changesInInventories": 217000, 
+                        "changesInLiabilities": 1867000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 1221000, 
+                        "capitalExpenditures": 12734000, 
+                        "investments": 32022000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 22057000, 
+                        "otherCashFlowsFromFinancingActivities": 1570000, 
+                        "salePurchaseOfStock": 29227000, 
+                        "dividendsPaid": 12150000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 45687000, 
+                        "changeInCashAndCashEquivalents": 636000, 
+                        "totalCashFlowsFromInvestingActivities": 45977000, 
+                        "totalCashFlowsFromFinancingActivities": 20483000, 
+                        "totalCashFlowFromOperatingActivities": 65824000
+                    }
+                }
+            ]
+        }, 
+        {
+            "9/26/2015": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 4968000, 
+                        "changesInOtherOperatingActivities": 179000, 
+                        "changesInAccountsReceivables": 3124000, 
+                        "depreciation": 11257000, 
+                        "changesInInventories": 238000, 
+                        "changesInLiabilities": 15188000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 610000, 
+                        "capitalExpenditures": 11247000, 
+                        "investments": 44417000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 29305000, 
+                        "otherCashFlowsFromFinancingActivities": 1499000, 
+                        "salePurchaseOfStock": 34710000, 
+                        "dividendsPaid": 11561000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 53394000, 
+                        "changeInCashAndCashEquivalents": 7276000, 
+                        "totalCashFlowsFromInvestingActivities": 56274000, 
+                        "totalCashFlowsFromFinancingActivities": 17716000, 
+                        "totalCashFlowFromOperatingActivities": 81266000
+                    }
+                }
+            ]
+        }, 
+        {
+            "9/27/2014": [
+                {
+                    "operatingActivities": {
+                        "adjustmentsToNetIncome": 5210000, 
+                        "changesInOtherOperatingActivities": 167000, 
+                        "changesInAccountsReceivables": 6452000, 
+                        "depreciation": 7946000, 
+                        "changesInInventories": 76000, 
+                        "changesInLiabilities": 13408000
+                    }
+                }, 
+                {
+                    "investingActivities": {
+                        "otherCashFlowsFromInvestingActivities": 3981000, 
+                        "capitalExpenditures": 9571000, 
+                        "investments": 9027000
+                    }
+                }, 
+                {
+                    "financingActivities": {
+                        "netBorrowings": 18266000, 
+                        "otherCashFlowsFromFinancingActivities": 1158000, 
+                        "salePurchaseOfStock": 44270000, 
+                        "dividendsPaid": 11126000
+                    }
+                }, 
+                {
+                    "cashFlowTotals": {
+                        "netIncome": 39510000, 
+                        "changeInCashAndCashEquivalents": 415000, 
+                        "totalCashFlowsFromInvestingActivities": 22579000, 
+                        "totalCashFlowsFromFinancingActivities": 37549000, 
+                        "totalCashFlowFromOperatingActivities": 59713000
+                    }
+                }
+            ]
+        }
+    ]
+}

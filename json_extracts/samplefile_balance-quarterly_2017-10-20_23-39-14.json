@@ -1,0 +1,752 @@
+{
+    "F-balance-quarterly": [
+        {
+            "6/30/2017": [
+                {
+                    "currentAssets": {
+                        "netReceivables": 60047000, 
+                        "cashAndCashEquivalents": 16223000, 
+                        "otherCurrentAssets": 3291000, 
+                        "shortTermInvestments": 22886000, 
+                        "inventory": 11092000
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 54792000, 
+                        "propertyPlantAndEquipment": 62391000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 6602000, 
+                        "goodwill": "-", 
+                        "deferredLongTermAssetCharges": 10145000, 
+                        "intangibleAssets": "-"
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 19958000, 
+                        "accountsPayable": 23568000, 
+                        "shortCurrentLongTermDebt": 50773000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": 18000, 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": 24840000, 
+                        "deferredLongTermLiabilityCharges": 735000, 
+                        "longTermDebt": 95236000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 41000, 
+                        "treasuryStock": 1253000, 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 18437000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 6716000, 
+                        "capitalSurplus": 21735000, 
+                        "misc.StocksOptionsWarrants": 97000
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": 94299000, 
+                        "totalLiabilities": 215128000, 
+                        "totalAssets": 247469000, 
+                        "totalStockholderEquity": 32244000, 
+                        "netTangibleAssets": 32244000, 
+                        "totalCurrentAssets": 113539000
+                    }
+                }
+            ]
+        }, 
+        {
+            "3/31/2017": [
+                {
+                    "currentAssets": {
+                        "netReceivables": 59290000, 
+                        "cashAndCashEquivalents": 17823000, 
+                        "otherCurrentAssets": 3414000, 
+                        "shortTermInvestments": 22166000, 
+                        "inventory": 10535000
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 54336000, 
+                        "propertyPlantAndEquipment": 60582000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 5893000, 
+                        "goodwill": "-", 
+                        "deferredLongTermAssetCharges": 10055000, 
+                        "intangibleAssets": "-"
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 18790000, 
+                        "accountsPayable": 23257000, 
+                        "shortCurrentLongTermDebt": 49257000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": 22000, 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": 24583000, 
+                        "deferredLongTermLiabilityCharges": 749000, 
+                        "longTermDebt": 96720000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 41000, 
+                        "treasuryStock": 1122000, 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 16992000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 6929000, 
+                        "capitalSurplus": 21637000, 
+                        "misc.StocksOptionsWarrants": 97000
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": 91304000, 
+                        "totalLiabilities": 213378000, 
+                        "totalAssets": 244094000, 
+                        "totalStockholderEquity": 30619000, 
+                        "netTangibleAssets": 30619000, 
+                        "totalCurrentAssets": 113228000
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2016": [
+                {
+                    "currentAssets": {
+                        "netReceivables": 57368000, 
+                        "cashAndCashEquivalents": 15905000, 
+                        "otherCurrentAssets": 3368000, 
+                        "shortTermInvestments": 22922000, 
+                        "inventory": 8898000
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 53228000, 
+                        "propertyPlantAndEquipment": 60901000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 5656000, 
+                        "goodwill": "-", 
+                        "deferredLongTermAssetCharges": 9705000, 
+                        "intangibleAssets": "-"
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 19316000, 
+                        "accountsPayable": 21296000, 
+                        "shortCurrentLongTermDebt": 49669000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": 17000, 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": 24395000, 
+                        "deferredLongTermLiabilityCharges": 691000, 
+                        "longTermDebt": 93301000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 41000, 
+                        "treasuryStock": 1122000, 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 15634000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 7013000, 
+                        "capitalSurplus": 21630000, 
+                        "misc.StocksOptionsWarrants": 96000
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": 90281000, 
+                        "totalLiabilities": 208685000, 
+                        "totalAssets": 237951000, 
+                        "totalStockholderEquity": 29170000, 
+                        "netTangibleAssets": 29170000, 
+                        "totalCurrentAssets": 108461000
+                    }
+                }
+            ]
+        }, 
+        {
+            "9/30/2016": [
+                {
+                    "currentAssets": {
+                        "netReceivables": 55579000, 
+                        "cashAndCashEquivalents": 13340000, 
+                        "otherCurrentAssets": 3552000, 
+                        "shortTermInvestments": 20825000, 
+                        "inventory": 10219000
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 53409000, 
+                        "propertyPlantAndEquipment": 61453000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 7111000, 
+                        "goodwill": "-", 
+                        "deferredLongTermAssetCharges": 9475000, 
+                        "intangibleAssets": "-"
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 19531000, 
+                        "accountsPayable": 22384000, 
+                        "shortCurrentLongTermDebt": 47273000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": 15000, 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": 23652000, 
+                        "deferredLongTermLiabilityCharges": 577000, 
+                        "longTermDebt": 89951000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 41000, 
+                        "treasuryStock": 1122000, 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 17013000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 6046000, 
+                        "capitalSurplus": 21598000, 
+                        "misc.StocksOptionsWarrants": 96000
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": 89188000, 
+                        "totalLiabilities": 203383000, 
+                        "totalAssets": 234963000, 
+                        "totalStockholderEquity": 31484000, 
+                        "netTangibleAssets": 31484000, 
+                        "totalCurrentAssets": 103515000
+                    }
+                }
+            ]
+        }
+    ], 
+    "WFC-balance-quarterly": [
+        {
+            "6/30/2017": [
+                {
+                    "currentAssets": {
+                        "netReceivables": "-", 
+                        "cashAndCashEquivalents": 778155000, 
+                        "otherCurrentAssets": "-", 
+                        "shortTermInvestments": "-", 
+                        "inventory": "-"
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 1490576000, 
+                        "propertyPlantAndEquipment": 8403000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 120365000, 
+                        "goodwill": 26573000, 
+                        "deferredLongTermAssetCharges": "-", 
+                        "intangibleAssets": "-"
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 1305830000, 
+                        "accountsPayable": 73035000, 
+                        "shortCurrentLongTermDebt": 95356000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": 915000, 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": "-", 
+                        "deferredLongTermLiabilityCharges": "-", 
+                        "longTermDebt": 11636000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 9136000, 
+                        "treasuryStock": 25675000, 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 139524000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 4229000, 
+                        "capitalSurplus": 60689000, 
+                        "misc.StocksOptionsWarrants": "-"
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": "-", 
+                        "totalLiabilities": 1725641000, 
+                        "totalAssets": 1930871000, 
+                        "totalStockholderEquity": 205230000, 
+                        "netTangibleAssets": 178657000, 
+                        "totalCurrentAssets": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "3/31/2017": [
+                {
+                    "currentAssets": {
+                        "netReceivables": "-", 
+                        "cashAndCashEquivalents": 816331000, 
+                        "otherCurrentAssets": "-", 
+                        "shortTermInvestments": "-", 
+                        "inventory": "-"
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 1478970000, 
+                        "propertyPlantAndEquipment": 8320000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 109163000, 
+                        "goodwill": 26666000, 
+                        "deferredLongTermAssetCharges": "-", 
+                        "intangibleAssets": "-"
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 1325444000, 
+                        "accountsPayable": 59831000, 
+                        "shortCurrentLongTermDebt": 94871000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": 989000, 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": "-", 
+                        "deferredLongTermLiabilityCharges": "-", 
+                        "longTermDebt": 12461000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 9136000, 
+                        "treasuryStock": 24030000, 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 136032000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 5724000, 
+                        "capitalSurplus": 60585000, 
+                        "misc.StocksOptionsWarrants": "-"
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": "-", 
+                        "totalLiabilities": 1750064000, 
+                        "totalAssets": 1951564000, 
+                        "totalStockholderEquity": 201500000, 
+                        "netTangibleAssets": 174834000, 
+                        "totalCurrentAssets": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2016": [
+                {
+                    "currentAssets": {
+                        "netReceivables": "-", 
+                        "cashAndCashEquivalents": 769111000, 
+                        "otherCurrentAssets": "-", 
+                        "shortTermInvestments": "-", 
+                        "inventory": "-"
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 1492375000, 
+                        "propertyPlantAndEquipment": 8333000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 115947000, 
+                        "goodwill": 26693000, 
+                        "deferredLongTermAssetCharges": "-", 
+                        "intangibleAssets": "-"
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 1306079000, 
+                        "accountsPayable": 57189000, 
+                        "shortCurrentLongTermDebt": 96781000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": 916000, 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": "-", 
+                        "deferredLongTermLiabilityCharges": "-", 
+                        "longTermDebt": 14492000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 9136000, 
+                        "treasuryStock": 22713000, 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 133075000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 4702000, 
+                        "capitalSurplus": 60234000, 
+                        "misc.StocksOptionsWarrants": "-"
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": "-", 
+                        "totalLiabilities": 1730534000, 
+                        "totalAssets": 1930115000, 
+                        "totalStockholderEquity": 199581000, 
+                        "netTangibleAssets": 172888000, 
+                        "totalCurrentAssets": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "9/30/2016": [
+                {
+                    "currentAssets": {
+                        "netReceivables": "-", 
+                        "cashAndCashEquivalents": 794390000, 
+                        "otherCurrentAssets": "-", 
+                        "shortTermInvestments": "-", 
+                        "inventory": "-"
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 1464542000, 
+                        "propertyPlantAndEquipment": 8322000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 124960000, 
+                        "goodwill": 26688000, 
+                        "deferredLongTermAssetCharges": "-", 
+                        "intangibleAssets": "-"
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 1275894000, 
+                        "accountsPayable": 82769000, 
+                        "shortCurrentLongTermDebt": 124668000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": 930000, 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": "-", 
+                        "deferredLongTermLiabilityCharges": "-", 
+                        "longTermDebt": "-"
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 9136000, 
+                        "treasuryStock": 22247000, 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 130288000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 572000, 
+                        "capitalSurplus": 60685000, 
+                        "misc.StocksOptionsWarrants": "-"
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": "-", 
+                        "totalLiabilities": 1739096000, 
+                        "totalAssets": 1942124000, 
+                        "totalStockholderEquity": 203028000, 
+                        "netTangibleAssets": 176340000, 
+                        "totalCurrentAssets": "-"
+                    }
+                }
+            ]
+        }
+    ], 
+    "AAPL-balance-quarterly": [
+        {
+            "7/1/2017": [
+                {
+                    "currentAssets": {
+                        "netReceivables": 22632000, 
+                        "cashAndCashEquivalents": 18571000, 
+                        "otherCurrentAssets": 10338000, 
+                        "shortTermInvestments": 58188000, 
+                        "inventory": 3146000
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 184757000, 
+                        "propertyPlantAndEquipment": 29286000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 10150000, 
+                        "goodwill": 5661000, 
+                        "deferredLongTermAssetCharges": "-", 
+                        "intangibleAssets": 2444000
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 7608000, 
+                        "accountsPayable": 55219000, 
+                        "shortCurrentLongTermDebt": 18475000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": "-", 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": 38598000, 
+                        "deferredLongTermLiabilityCharges": 2984000, 
+                        "longTermDebt": 89864000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 34445000, 
+                        "treasuryStock": "-", 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 98525000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 545000, 
+                        "capitalSurplus": "-", 
+                        "misc.StocksOptionsWarrants": "-"
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": 81302000, 
+                        "totalLiabilities": 212748000, 
+                        "totalAssets": 345173000, 
+                        "totalStockholderEquity": 132425000, 
+                        "netTangibleAssets": 124320000, 
+                        "totalCurrentAssets": 112875000
+                    }
+                }
+            ]
+        }, 
+        {
+            "4/1/2017": [
+                {
+                    "currentAssets": {
+                        "netReceivables": 20612000, 
+                        "cashAndCashEquivalents": 15157000, 
+                        "otherCurrentAssets": 11367000, 
+                        "shortTermInvestments": 51944000, 
+                        "inventory": 2910000
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 189740000, 
+                        "propertyPlantAndEquipment": 27163000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 7549000, 
+                        "goodwill": 5473000, 
+                        "deferredLongTermAssetCharges": "-", 
+                        "intangibleAssets": 2617000
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 7682000, 
+                        "accountsPayable": 51669000, 
+                        "shortCurrentLongTermDebt": 13991000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": "-", 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": 39470000, 
+                        "deferredLongTermLiabilityCharges": 3107000, 
+                        "longTermDebt": 84531000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 33579000, 
+                        "treasuryStock": "-", 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 100925000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 422000, 
+                        "capitalSurplus": "-", 
+                        "misc.StocksOptionsWarrants": "-"
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": 73342000, 
+                        "totalLiabilities": 200450000, 
+                        "totalAssets": 334532000, 
+                        "totalStockholderEquity": 134082000, 
+                        "netTangibleAssets": 125992000, 
+                        "totalCurrentAssets": 101990000
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2016": [
+                {
+                    "currentAssets": {
+                        "netReceivables": 27977000, 
+                        "cashAndCashEquivalents": 16371000, 
+                        "otherCurrentAssets": 12191000, 
+                        "shortTermInvestments": 44081000, 
+                        "inventory": 2712000
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 185638000, 
+                        "propertyPlantAndEquipment": 26510000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 7390000, 
+                        "goodwill": 5423000, 
+                        "deferredLongTermAssetCharges": "-", 
+                        "intangibleAssets": 2848000
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 7889000, 
+                        "accountsPayable": 62249000, 
+                        "shortCurrentLongTermDebt": 13992000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": "-", 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": 37901000, 
+                        "deferredLongTermLiabilityCharges": 3163000, 
+                        "longTermDebt": 73557000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 32144000, 
+                        "treasuryStock": "-", 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 100001000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 245000, 
+                        "capitalSurplus": "-", 
+                        "misc.StocksOptionsWarrants": "-"
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": 84130000, 
+                        "totalLiabilities": 198751000, 
+                        "totalAssets": 331141000, 
+                        "totalStockholderEquity": 132390000, 
+                        "netTangibleAssets": 124119000, 
+                        "totalCurrentAssets": 103332000
+                    }
+                }
+            ]
+        }, 
+        {
+            "9/24/2016": [
+                {
+                    "currentAssets": {
+                        "netReceivables": 29299000, 
+                        "cashAndCashEquivalents": 20484000, 
+                        "otherCurrentAssets": 8283000, 
+                        "shortTermInvestments": 46671000, 
+                        "inventory": 2132000
+                    }
+                }, 
+                {
+                    "fixedAssets": {
+                        "longTermInvestments": 170430000, 
+                        "propertyPlantAndEquipment": 27010000, 
+                        "accumulatedAmortization": "-", 
+                        "otherAssets": 8757000, 
+                        "goodwill": 5414000, 
+                        "deferredLongTermAssetCharges": "-", 
+                        "intangibleAssets": 3206000
+                    }
+                }, 
+                {
+                    "currentLiabilities": {
+                        "otherCurrentLiabilities": 8080000, 
+                        "accountsPayable": 59321000, 
+                        "shortCurrentLongTermDebt": 11605000
+                    }
+                }, 
+                {
+                    "long-termLiabilities": {
+                        "minorityInterest": "-", 
+                        "negativeGoodwill": "-", 
+                        "otherLiabilities": 36074000, 
+                        "deferredLongTermLiabilityCharges": 2930000, 
+                        "longTermDebt": 75427000
+                    }
+                }, 
+                {
+                    "stockholdersEquity": {
+                        "commonStock": 31251000, 
+                        "treasuryStock": "-", 
+                        "redeemablePreferredStock": "-", 
+                        "retainedEarnings": 96364000, 
+                        "preferredStock": "-", 
+                        "otherStockholderEquity": 634000, 
+                        "capitalSurplus": "-", 
+                        "misc.StocksOptionsWarrants": "-"
+                    }
+                }, 
+                {
+                    "balanceSheetTotals": {
+                        "totalCurrentLiabilities": 79006000, 
+                        "totalLiabilities": 193437000, 
+                        "totalAssets": 321686000, 
+                        "totalStockholderEquity": 128249000, 
+                        "netTangibleAssets": 119629000, 
+                        "totalCurrentAssets": 106869000
+                    }
+                }
+            ]
+        }
+    ]
+}

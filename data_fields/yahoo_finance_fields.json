@@ -1,0 +1,42 @@
+{
+    "income": [
+        {"Revenue": ["Total Revenue", "Cost of Revenue", "Gross Profit"]},
+        {"Operating Expenses": ["Research Development", "Selling General and Administrative", "Non Recurring",
+                                "Others", "Total Operating Expenses", "Operating Income or Loss"]},
+        {"Income from Continuing Operations": ["Total Other Income/Expenses Net", "Earnings Before Interest and Taxes",
+                                               "Interest Expense", "Income Before Tax", "Income Tax Expense",
+                                               "Minority Interest", "Net Income From Continuing Ops"]},
+        {"Non-recurring Events": ["Discontinued Operations", "Extraordinary Items", "Effect Of Accounting Changes",
+                                  "Other Items"]},
+        {"Net Income": ["Net Income", "Preferred Stock And Other Adjustments",
+                        "Net Income Applicable To Common Shares"]}
+    ],
+    "balance": [
+        {"Current Assets": ["Cash And Cash Equivalents", "Short Term Investments", "Net Receivables", "Inventory",
+                            "Other Current Assets"]},
+        {"Fixed Assets": ["Long Term Investments", "Property Plant and Equipment", "Goodwill", "Intangible Assets",
+                          "Accumulated Amortization", "Other Assets", "Deferred Long Term Asset Charges"]},
+        {"Current Liabilities": ["Accounts Payable", "Short/Current Long Term Debt", "Other Current Liabilities"]},
+        {"Long-term Liabilities": ["Long Term Debt", "Other Liabilities", "Deferred Long Term Liability Charges",
+                                   "Minority Interest", "Negative Goodwill"]},
+        {"Stockholders Equity": ["Misc. Stocks Options Warrants", "Redeemable Preferred Stock", "Preferred Stock",
+                                 "Common Stock", "Retained Earnings", "Treasury Stock", "Capital Surplus",
+                                 "Other Stockholder Equity"]},
+        {"Balance Sheet Totals": ["Total Current Assets", "Total Assets", "Total Current Liabilities",
+                                  "Total Liabilities", "Total Stockholder Equity", "Net Tangible Assets"]}
+    ],
+    "cash": [
+        {"Operating Activities, Cash Flows Provided By or Used In": ["Depreciation", "Adjustments To Net Income",
+                                                                     "Changes In Accounts Receivables",
+                                                                     "Changes In Liabilities", "Changes In Inventories",
+                                                                     "Changes In Other Operating Activities"]},
+        {"Investing Activities, Cash Flows Provided By or Used In": ["Capital Expenditures", "Investments",
+                                                                     "Other Cash flows from Investing Activities"]},
+        {"Financing Activities, Cash Flows Provided By or Used In": ["Dividends Paid", "Sale Purchase of Stock",
+                                                                     "Net Borrowings",
+                                                                     "Other Cash Flows from Financing Activities"]},
+        {"Cash Flow Totals": ["Net Income", "Total Cash Flow From Operating Activities",
+                              "Total Cash Flows From Investing Activities",
+                              "Total Cash Flows From Financing Activities", "Change In Cash and Cash Equivalents"]}
+    ]
+}

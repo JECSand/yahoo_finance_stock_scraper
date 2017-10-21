@@ -1,0 +1,572 @@
+{
+    "AAPL-income-quarterly": [
+        {
+            "7/1/2017": [
+                {
+                    "revenue": {
+                        "grossProfit": 17488000, 
+                        "totalRevenue": 45408000, 
+                        "costOfRevenue": 27920000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": "-", 
+                        "sellingGeneralAndAdministrative": 3783000, 
+                        "operatingIncomeOrLoss": 10768000, 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": 2937000
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": 540000, 
+                        "minorityInterest": "-", 
+                        "netIncomeFromContinuingOps": 8717000, 
+                        "incomeTaxExpense": 2591000, 
+                        "interestExpense": "-", 
+                        "incomeBeforeTax": 11308000, 
+                        "earningsBeforeInterestAndTaxes": 11308000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 8717000, 
+                        "netIncomeApplicableToCommonShares": 8717000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "4/1/2017": [
+                {
+                    "revenue": {
+                        "grossProfit": 20591000, 
+                        "totalRevenue": 52896000, 
+                        "costOfRevenue": 32305000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": "-", 
+                        "sellingGeneralAndAdministrative": 3718000, 
+                        "operatingIncomeOrLoss": 14097000, 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": 2776000
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": 587000, 
+                        "minorityInterest": "-", 
+                        "netIncomeFromContinuingOps": 11029000, 
+                        "incomeTaxExpense": 3655000, 
+                        "interestExpense": "-", 
+                        "incomeBeforeTax": 14684000, 
+                        "earningsBeforeInterestAndTaxes": 14684000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 11029000, 
+                        "netIncomeApplicableToCommonShares": 11029000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2016": [
+                {
+                    "revenue": {
+                        "grossProfit": 30176000, 
+                        "totalRevenue": 78351000, 
+                        "costOfRevenue": 48175000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": "-", 
+                        "sellingGeneralAndAdministrative": 3946000, 
+                        "operatingIncomeOrLoss": 23359000, 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": 2871000
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": 821000, 
+                        "minorityInterest": "-", 
+                        "netIncomeFromContinuingOps": 17891000, 
+                        "incomeTaxExpense": 6289000, 
+                        "interestExpense": "-", 
+                        "incomeBeforeTax": 24180000, 
+                        "earningsBeforeInterestAndTaxes": 24180000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 17891000, 
+                        "netIncomeApplicableToCommonShares": 17891000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "9/24/2016": [
+                {
+                    "revenue": {
+                        "grossProfit": 17813000, 
+                        "totalRevenue": 46852000, 
+                        "costOfRevenue": 29039000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": "-", 
+                        "sellingGeneralAndAdministrative": 3482000, 
+                        "operatingIncomeOrLoss": 11761000, 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": 2570000
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": 427000, 
+                        "minorityInterest": "-", 
+                        "netIncomeFromContinuingOps": 9014000, 
+                        "incomeTaxExpense": 3174000, 
+                        "interestExpense": "-", 
+                        "incomeBeforeTax": 12188000, 
+                        "earningsBeforeInterestAndTaxes": 12188000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 9014000, 
+                        "netIncomeApplicableToCommonShares": 9014000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }
+    ], 
+    "WFC-income-quarterly": [
+        {
+            "6/30/2017": [
+                {
+                    "revenue": {
+                        "grossProfit": "-", 
+                        "totalRevenue": 24401000, 
+                        "costOfRevenue": 683000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": 842000, 
+                        "sellingGeneralAndAdministrative": 13254000, 
+                        "operatingIncomeOrLoss": "-", 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": "-"
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": "-", 
+                        "minorityInterest": 915000, 
+                        "netIncomeFromContinuingOps": 5998000, 
+                        "incomeTaxExpense": 2225000, 
+                        "interestExpense": 1549000, 
+                        "incomeBeforeTax": 8073000, 
+                        "earningsBeforeInterestAndTaxes": 9622000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 5810000, 
+                        "netIncomeApplicableToCommonShares": 5404000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "3/31/2017": [
+                {
+                    "revenue": {
+                        "grossProfit": "-", 
+                        "totalRevenue": 23928000, 
+                        "costOfRevenue": 537000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": 894000, 
+                        "sellingGeneralAndAdministrative": 13503000, 
+                        "operatingIncomeOrLoss": "-", 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": "-"
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": "-", 
+                        "minorityInterest": 989000, 
+                        "netIncomeFromContinuingOps": 5860000, 
+                        "incomeTaxExpense": 2057000, 
+                        "interestExpense": 1389000, 
+                        "incomeBeforeTax": 7605000, 
+                        "earningsBeforeInterestAndTaxes": 8994000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 5457000, 
+                        "netIncomeApplicableToCommonShares": 5056000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2016": [
+                {
+                    "revenue": {
+                        "grossProfit": "-", 
+                        "totalRevenue": 23238000, 
+                        "costOfRevenue": 400000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": 1106000, 
+                        "sellingGeneralAndAdministrative": 12914000, 
+                        "operatingIncomeOrLoss": "-", 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": "-"
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": "-", 
+                        "minorityInterest": 916000, 
+                        "netIncomeFromContinuingOps": 5580000, 
+                        "incomeTaxExpense": 2258000, 
+                        "interestExpense": 1256000, 
+                        "incomeBeforeTax": 7562000, 
+                        "earningsBeforeInterestAndTaxes": 8818000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 5274000, 
+                        "netIncomeApplicableToCommonShares": 4872000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "9/30/2016": [
+                {
+                    "revenue": {
+                        "grossProfit": "-", 
+                        "totalRevenue": 23863000, 
+                        "costOfRevenue": 356000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": 1104000, 
+                        "sellingGeneralAndAdministrative": 12969000, 
+                        "operatingIncomeOrLoss": "-", 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": "-"
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": "-", 
+                        "minorityInterest": 930000, 
+                        "netIncomeFromContinuingOps": 5784000, 
+                        "incomeTaxExpense": 2601000, 
+                        "interestExpense": 1179000, 
+                        "incomeBeforeTax": 8255000, 
+                        "earningsBeforeInterestAndTaxes": 9434000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 5644000, 
+                        "netIncomeApplicableToCommonShares": 5243000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }
+    ], 
+    "F-income-quarterly": [
+        {
+            "6/30/2017": [
+                {
+                    "revenue": {
+                        "grossProfit": 4287000, 
+                        "totalRevenue": 39853000, 
+                        "costOfRevenue": 35566000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": "-", 
+                        "sellingGeneralAndAdministrative": 2756000, 
+                        "operatingIncomeOrLoss": 1531000, 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": "-"
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": 732000, 
+                        "minorityInterest": 18000, 
+                        "netIncomeFromContinuingOps": 2315000, 
+                        "incomeTaxExpense": 209000, 
+                        "interestExpense": 277000, 
+                        "incomeBeforeTax": 2259000, 
+                        "earningsBeforeInterestAndTaxes": 2536000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 2042000, 
+                        "netIncomeApplicableToCommonShares": 2042000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "3/31/2017": [
+                {
+                    "revenue": {
+                        "grossProfit": 4206000, 
+                        "totalRevenue": 39146000, 
+                        "costOfRevenue": 34940000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": "-", 
+                        "sellingGeneralAndAdministrative": 2764000, 
+                        "operatingIncomeOrLoss": 1442000, 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": "-"
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": 734000, 
+                        "minorityInterest": 22000, 
+                        "netIncomeFromContinuingOps": 1933000, 
+                        "incomeTaxExpense": 649000, 
+                        "interestExpense": 279000, 
+                        "incomeBeforeTax": 2243000, 
+                        "earningsBeforeInterestAndTaxes": 2522000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 1587000, 
+                        "netIncomeApplicableToCommonShares": 1587000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "12/31/2016": [
+                {
+                    "revenue": {
+                        "grossProfit": 2759000, 
+                        "totalRevenue": 38654000, 
+                        "costOfRevenue": 35895000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": "-", 
+                        "sellingGeneralAndAdministrative": 4438000, 
+                        "operatingIncomeOrLoss": 1679000, 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": "-"
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": 368000, 
+                        "minorityInterest": 17000, 
+                        "netIncomeFromContinuingOps": 345000, 
+                        "incomeTaxExpense": 336000, 
+                        "interestExpense": 244000, 
+                        "incomeBeforeTax": 1117000, 
+                        "earningsBeforeInterestAndTaxes": 873000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 783000, 
+                        "netIncomeApplicableToCommonShares": 783000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }, 
+        {
+            "9/30/2016": [
+                {
+                    "revenue": {
+                        "grossProfit": 3707000, 
+                        "totalRevenue": 35943000, 
+                        "costOfRevenue": 32236000
+                    }
+                }, 
+                {
+                    "operatingExpenses": {
+                        "nonRecurring": "-", 
+                        "others": "-", 
+                        "sellingGeneralAndAdministrative": 2284000, 
+                        "operatingIncomeOrLoss": 1423000, 
+                        "totalOperatingExpenses": "-", 
+                        "researchDevelopment": "-"
+                    }
+                }, 
+                {
+                    "incomeFromContinuingOperations": {
+                        "totalOtherIncomeExpensesNet": 201000, 
+                        "minorityInterest": 15000, 
+                        "netIncomeFromContinuingOps": 1360000, 
+                        "incomeTaxExpense": 426000, 
+                        "interestExpense": 238000, 
+                        "incomeBeforeTax": 1387000, 
+                        "earningsBeforeInterestAndTaxes": 1625000
+                    }
+                }, 
+                {
+                    "non-recurringEvents": {
+                        "otherItems": "-", 
+                        "extraordinaryItems": "-", 
+                        "discontinuedOperations": "-", 
+                        "effectOfAccountingChanges": "-"
+                    }
+                }, 
+                {
+                    "netIncome": {
+                        "netIncome": 957000, 
+                        "netIncomeApplicableToCommonShares": 957000, 
+                        "preferredStockAndOtherAdjustments": "-"
+                    }
+                }
+            ]
+        }
+    ]
+}
